@@ -63,7 +63,3 @@ Generate a structured safety IR JSON document for downstream tooling. Optional f
 ## Requirements
 This project uses Python and depends on packages required by the parser and analysis modules, including:
 - `networkx`
-
-If you add a requirements.txt or packaging metadata later, list the full dependency set here.
-
-
